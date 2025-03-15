@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1741646441 source:c:\users\asus\desktop\hastane acil servis uygulamasý\hastane acil servis uygulamasý\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
